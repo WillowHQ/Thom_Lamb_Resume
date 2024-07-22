@@ -1,9 +1,9 @@
 
-```markdown
+
 # Thom Lamb
-- **Phone:** 647-451-0872
-- **Email:** thom@codebusters.ca
-- **LinkedIn:** [linkedin.com/in/thomlamb1/](https://www.linkedin.com/in/thomlamb1/)
+**Phone:** 647-451-0872
+**Email:** thom@codebusters.ca
+**LinkedIn:** [linkedin.com/in/thomlamb1/](https://www.linkedin.com/in/thomlamb1/)
 
 ---
 
@@ -104,5 +104,5 @@
 - **Bachelor of Engineering (Civil)**  
   *Royal Military College of Canada - Faculty of Engineering*  
   *1995 - 1998*
-```
+
 
