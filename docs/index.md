@@ -1,4 +1,3 @@
-Certainly! Here's the resume converted to Markdown format:
 
 ```markdown
 # Thom Lamb
