@@ -106,4 +106,3 @@
   *1995 - 1998*
 ```
 
-This Markdown format maintains the structure and details of the resume, suitable for use in various text-based formats and platforms.
